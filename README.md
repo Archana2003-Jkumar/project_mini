@@ -1,10 +1,9 @@
-# project_mini
-
+# Mini_Project
 
 ## AIM:
 The aim of Data Shield is to enhance IoT database maintenance and security through the integration of machine intelligence, ensuring data integrity, confidentiality, and availability in the Internet of Things ecosystem.
 
-## THEOREY:
+## THEORY:
 These days, the most significant ways for critical infrastructures to increase service quality and productivity are through automation and remote control. Under this range, optimal precision, dependability, and security are necessary for the effective administration of IoT systems.The amount of data generated and stored has increased dramatically with the growth of IoT, necessitating effective database administration and strong security measures. IoT security may be jeopardized by a weak device, which allows hackers to get access to networked systems and obtain user passwords and important company information.In order to solve these issues, artificial intelligence (AI) and machine learning are essential. By automating processes linked to data management, analysis, and security, machine intelligence technologies can assist extract useful
 
 To identify anomalies, we have specifically employed the following methods:
